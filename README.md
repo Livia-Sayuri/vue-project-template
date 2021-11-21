@@ -12,7 +12,7 @@ First of all:
 - Then this: vue add vuetify and press 'enter'
 - Select 'Default (recommended)' and press 'enter'
 - Then this: yarn serve and press 'enter'
- This will generate a new Vuetify project, there will be a folder named App.vue, erase everything there and put the content of App.vue folder from vue-template-project that you downloaded in this github link: https://github.com/Livia-Sayuri/vue-template-project (the folder will be named as vue-template-project-main and App.vue from it will be in a folder named src).
+- This will generate a new Vuetify project, there will be a folder named App.vue, erase everything there and put the content of App.vue folder from vue-template-project that you downloaded in this github link: https://github.com/Livia-Sayuri/vue-template-project (the folder will be named as vue-template-project-main and App.vue from it will be in a folder named src).
 -  press F5 (it will probably show some browsers options, it would be better to choose Chrome, but it's your choice, then press F5 again and it will show you the template).
 
 
